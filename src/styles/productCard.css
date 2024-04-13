@@ -1,6 +1,7 @@
-/* Link Font Awesome CSS */
-
-/* Styling for the product card */
+.product-list {
+  display: flex;
+  flex-wrap: wrap;
+}
 .product-card {
   display: flex;
   border: 1px solid #ccc;
