@@ -1,9 +1,14 @@
-// GenericListing.jsx
-import React from "react"
+import React, { useState, useEffect } from "react"
 import ProductCard from "./ProductCard"
-import products from "../api/products.json"
+import productsData from "../api/products.json"
 
 const GenericListing = () => {
+  const [products, setProducts] = useState([])
+
+  useEffect(() => {
+    setProducts(productsData)
+  }, [])
+
   return (
     <div className="generic-listing">
       <h1>Products</h1>
