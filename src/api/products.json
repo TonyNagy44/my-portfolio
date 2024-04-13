@@ -36,7 +36,21 @@
   },
   {
     "id": 6,
-    "name": "Product 5",
+    "name": "Product 6",
+    "description": "Description for Product 2",
+    "price": 49.99,
+    "image": "Dummy_Title_Card.jpeg"
+  },
+  {
+    "id": 7,
+    "name": "Product 6",
+    "description": "Description for Product 2",
+    "price": 49.99,
+    "image": "Dummy_Title_Card.jpeg"
+  },
+  {
+    "id": 8,
+    "name": "Product 6",
     "description": "Description for Product 2",
     "price": 49.99,
     "image": "Dummy_Title_Card.jpeg"
