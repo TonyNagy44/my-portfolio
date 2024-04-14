@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from "react"
-import ProductCard from "./ProductCard"
+import ProductCard from "./productCard"
 import productsData from "../api/products.json"
 
 const GenericListing = () => {
