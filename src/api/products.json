@@ -3,56 +3,56 @@
     "id": 1,
     "name": "Product 1",
     "description": "Description for Product 1",
-    "price": 99.99,
-    "image": "Dummy_Title_Card.jpeg"
+    "price": 99,
+    "image": "../assets/images/Dummy_Title_Card.jpeg"
   },
   {
     "id": 2,
     "name": "Product 2",
     "description": "Description for Product 2",
-    "price": 49.99,
-    "image": "Dummy_Title_Card.jpeg"
+    "price": 49,
+    "image": "../assets/images/Dummy_Title_Card.jpeg"
   },
   {
     "id": 3,
     "name": "Product 3",
     "description": "Description for Product 2",
-    "price": 49.99,
-    "image": "Dummy_Title_Card.jpeg"
+    "price": 50,
+    "image": "../assets/images/Dummy_Title_Card.jpeg"
   },
   {
     "id": 4,
     "name": "Product 4",
     "description": "Description for Product 2",
-    "price": 49.99,
-    "image": "Dummy_Title_Card.jpeg"
+    "price": 30,
+    "image": "../assets/images/Dummy_Title_Card.jpeg"
   },
   {
     "id": 5,
     "name": "Product 5",
     "description": "Description for Product 2",
-    "price": 49.99,
-    "image": "Dummy_Title_Card.jpeg"
+    "price": 20,
+    "image": "../assets/images/Dummy_Title_Card.jpeg"
   },
   {
     "id": 6,
     "name": "Product 6",
     "description": "Description for Product 2",
-    "price": 49.99,
-    "image": "Dummy_Title_Card.jpeg"
+    "price": 10,
+    "image": "../assets/images/Dummy_Title_Card.jpeg"
   },
   {
     "id": 7,
     "name": "Product 6",
     "description": "Description for Product 2",
-    "price": 49.99,
-    "image": "Dummy_Title_Card.jpeg"
+    "price": 15,
+    "image": "../assets/images/Dummy_Title_Card.jpeg"
   },
   {
     "id": 8,
     "name": "Product 6",
     "description": "Description for Product 2",
-    "price": 49.99,
-    "image": "Dummy_Title_Card.jpeg"
+    "price": 12,
+    "image": "../assets/images/Dummy_Title_Card.jpeg"
   }
 ]

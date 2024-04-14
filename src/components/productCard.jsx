@@ -1,15 +1,15 @@
-/* eslint-disable @next/next/no-img-element */
-import React from "react"
-
-const ProductCard = ({ name, description, price, image }) => {
+const ProductCard = ({ name, description, price, image, addToCart }) => {
+  const handleAddToCart = () => {
+    addToCart()
+  }
   return (
     <div className="product-card">
-      <img src={`../assets/images/${image}`} alt="Product Image" className="product-image" />
+      <img src={image} alt="Product" className="product-image" />
       <div className="product-info">
         <h2 className="product-name">{name}</h2>
         <p className="product-description">{description}</p>
         <p className="product-price">${price}</p>
-        <button className="add-to-cart-btn">
+        <button className="add-to-cart-btn" onClick={handleAddToCart}>
           <i className="fas fa-cart-plus"></i> Add to Cart
         </button>
       </div>
